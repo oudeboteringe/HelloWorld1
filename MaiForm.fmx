@@ -8,4 +8,9 @@ object Form1: TForm1
   FormFactor.Height = 480
   FormFactor.Devices = [Desktop]
   DesignerMasterStyle = 0
+  object HelloWorld1: TLabel
+    Position.X = 136.000000000000000000
+    Position.Y = 208.000000000000000000
+    Text = 'HelloWorld1'
+  end
 end
