@@ -1,4 +1,4 @@
-unit HelloWorld1;
+unit MaiForm;
 
 interface
 
